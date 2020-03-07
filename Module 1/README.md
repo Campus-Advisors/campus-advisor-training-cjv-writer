@@ -2,7 +2,6 @@
 
 In this module you will be introduced to Git. This module will cover:
 
-* What is version control?
 * What is Distributed Version Control?
 * What is a Git repository?
 * Basic Bash and Git commands
